@@ -3,7 +3,8 @@
 <h3 align="center">  Computer Science Student | Web development | Programming </h3> <br>
 
 <p align="center"> 
-Connect With me on  <a href="https://www.linkedin.com/in/shyamji-tripathi-9a7b90187/">Linkedin</a>
+Connect With me on  <a href="https://www.linkedin.com/in/shyamji-tripathi-9a7b90187/">Linkedin</a><br>
+Go through my Blogs<a href="https://superkey.hashnode.dev/">Superkey</a>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <img align="right" height="200" width="200" src="circle-cropped-min.png" >

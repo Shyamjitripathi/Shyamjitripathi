@@ -7,7 +7,7 @@ Connect With me on  <a href="https://www.linkedin.com/in/shyamji-tripathi-9a7b90
 Go through my Blogs<a href="https://superkey.hashnode.dev/"> Superkey</a>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<img align="right" height="200" width="200" src="circle-cropped-min.png" >
+<img align="right" height="200px" width="200px" src="circle-cropped-min.png" >
 
 ## Something about me
 -  **Learning :**| Backend-technologies | Data Structure and algorithm |

@@ -7,7 +7,6 @@ Connect With me on  <a href="https://www.linkedin.com/in/shyamji-tripathi-9a7b90
 Go through my Blogs<a href="https://superkey.hashnode.dev/"> Superkey</a>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<img align="right" height="200px" width="200px" src="circle-cropped-min.png" >
 
 ## Something about me
 -  **Learning :**| Backend-technologies | Data Structure and algorithm |
@@ -16,13 +15,6 @@ Go through my Blogs<a href="https://superkey.hashnode.dev/"> Superkey</a>
 -  **Programming-Language:** | C and Java |
 -  **Tools:** | Git , GitHub , Figma , Excalidraw |
   
-
-- Photo by <a href="https://unsplash.com/@austinpoon?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Austin Poon</a> on <a href="https://unsplash.com/s/photos/tech?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-
-
-
-
-
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
  🛠️ &nbsp;**Languages and Tools**
 

@@ -1,6 +1,6 @@
 <h1 align="center"> Hello, I'm Shyamji Tripathi 👨‍💻 </h1>
 
-<h3 align="center">| Web-Developer | MERN Stack | Cloud Enthusiast | AWS Learner | DevOps Enthusiast | B.Tech ( CSE ' 23 ) |</h3> <br>
+<h3 align="center"> Web-Developer | MERN Stack | Cloud Enthusiast | AWS Learner | DevOps Enthusiast | B.Tech ( CSE ' 23 )</h3> <br>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
   
@@ -21,4 +21,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=shyamjitripathi&icon=3&color=6)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

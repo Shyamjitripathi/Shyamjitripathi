@@ -1,10 +1,6 @@
 <h1 align="center"> Hello, I'm Shyamji Tripathi 👨‍💻 </h1>
 
-<h3 align="center">| Computer Science Undergraduate | Frontend-Developer | Programming |</h3> <br>
-
-<p align="center"> 
-Connect With me on  <a href="https://www.linkedin.com/in/shyamji-tripathi-9a7b90187/">Linkedin</a><br>
-Go through my Blogs<a href="https://superkey.hashnode.dev/"> Superkey</a>
+<h3 align="center">| Web-Developer | MERN Stack | Cloud Enthusiast | AWS Learner | DevOps Enthusiast | B.Tech ( CSE ' 23 ) |</h3> <br>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
   
